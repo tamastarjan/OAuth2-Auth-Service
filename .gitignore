@@ -34,3 +34,6 @@ build/
 
 ### Key files ###
 *.pem
+
+### MacOS ###
+*.DS_Store
